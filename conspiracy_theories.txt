@@ -1,0 +1,118 @@
+	- Willem Vasco-Pais follows a different route on Mondays
+		○ He visited a hotel and museum on 1/18
+	- Ingrid Barranco took a different route on 1/10, 1/16, and 1.17
+	- Vira Frente took a different route on 1/8, 1/10, and 1/14
+		○ She visited the hotel on 1/10 or 1/11
+	- Ada Campo-Corrente took a different route on 1/16, and had a car with a bad sensor on 1/11
+	- Isande Borrasca has 3 different route patterns -- one for 1/6, 1/9, and 1/16, one for 1/7 and 1/13, and one for 1/8, 1/10, 1/14, and 1/17
+		○ He visited the hotel on 1/15
+	- Edvard Vann visited the hotel and museum on 1/11
+	- Orhan Strum took a different route on 1/8
+	- Gustav Cazar took a detour on 1/10-1/11
+	- Sven does some extra driving on the northwest side of Aliba regularly
+		○ He visited the hotel and museum on 1/18
+	- Birgitta Frente took a different route on 1/8, 1/10, 1/13, 1/16, and 1/17
+		○ She visited the hotel and museum on 1/13
+	- Stenig Fusil took a different route on 1/17
+	- Isia Vann took a different route on 1/9, 1/10, 1/14, and 1/15
+		○ He visited the hotel and museum on 1/10 and 1/6
+	- Felix Balas visited Frank's Fuels on 1/18
+	- Linnea Bergen took a different route on 1/9, 1/10, 1/15, and 1/17
+	- Marin Onda has two different route patterns -- one for 1/16, 1/18, and 1/15, and one for the rest of the days
+		○ He seems to have visited the refinery on 1/8 and the chemical company on 1/15
+	- Lucas Alcazar took a different route on 1/10, 1/15, 1/16, and 1/17
+		○ He seems to have visited the chemical company on 1/16
+	- Bertrand Ovan took a different route on 1/9, 1/13 and 1/14
+		○ He visited the refinery on 1/16
+	- Hennie Osvaldo took a different route on 1/9, 1/13, 1/14, and 1/15
+		○ She seems to have visited the hotel and museum on 1/14 and the refinery on 1/16
+		○ She has routes that end at no obvious destinations on at least 4+ occassions
+	- Brad Tempestad visited the hotel on 1/11 and 1/15. He also has routes that end nowhere
+	- Lidelse Dedos took a different route on 1/7, 1/9, 1/10, 1/15, 1/16, and 1/17
+		○ She visited the hotel on 1/13
+	- Inga Ferro took a different route on 1/14, 1/16, and 1/17
+		○ She visited the hotel on 1/17
+		○ She also has routes that end nowhere
+		○ She visited the refinery on 1/15 and the chemical company on 1/16
+	- Kare Orilla took a different route on 1/13
+	- Nils Calixto took a different route on 1/7, 1/9, 1/13, and 1/16
+	- Minke Mies has no obvious route patterns, but 1/7 and 1/13 stand out
+		○ They visited the refinery on 1/13
+		○ They also have routes that end nowhere
+	- Adra Nubarron took a different route 1/16 and 1/17
+		○ They visited the refinery on 1/18 and the capitol on 1/19
+	- Varja Lagos took a different route on 1/16, 1/13, and 1/14
+	- Felix Resumir took a different route on 1/10, 1/13, and 1/17
+		○ He visited the hotel and museum on 1/13
+	- Loreto Bodrogi has two different route patterns
+		○ Lots of routes that end nowhere
+		○ He visited the refinery and chemical company on 1/16, the hotel on 1/9, and the scrapyard on 1/13
+		○ He also visited the capitol on 1/18
+	- Elsa Orilla's sensor was malfunctioning
+	- Isak Baza took a different route on 1/14 and 1/17
+	- Kanon Herrero took a different route on 1/17
+	- Sten visited the hotel on 1/17, 1/18, and 1/19
+	- Henk Mies spent 6950.27 at the airport on 1/16 and 10045.2 on 1/14
+	- Albina Hafon spent 5317.14 at the airport on 1/6
+	- Henk was at the airport on 1/6, 1/7, 1/8, 1/9, 1/13, 1/14, 1/15, 1/16
+	- Claudio Hawelon spent 4039.36 at the airport on 1/10
+	- Dylan Scozzese visited the scrapyard on 1/7, 1/9, 1/14, 1/16
+	- Lucas Alcazar spent $118.82 at Abila Zacharo on 1/9 (significantly more than other folks) and Isak Baza spent $146.66 there on 1/10
+	- Kanon Herrero and Elsa Orilla have identical charges of 55.55 at Ahaggo Museum on 1/18
+	- Axel Calzas (67.78), Lars Azada (62.5), and Vira Frente (52.5) all spent a lot at Bean There Done That on 1/7
+	- Gustav Cazar spend 109.92 at Bean There Done That on 1/8
+	- Felix Balas spend $116.04 at Bean There Done That on 1/13
+	- Gustav Cazar spent $75.64 at Bean There Done That on 1/14
+	- Axel Calzas spent $106.26 at Bean There Done That on 1/15
+	- Gustav Cazar spent $98.34 at Bean There Done That on 1/16
+	- Janon Herrero and Sven Flecha each spent > $60 at Brew've Been Served on 1/17
+	- Hennie Osvaldo spent $45.66 at Brew've been Served on 1/6
+	- Brand Tempestad spent > $115 and Varja Lagos spent > $78 at Brew've Been Served on 1/7
+	- Cornelia Lais spent ~$90 and Varja Lagos spent > $100 at Brew've Been Served on 1/8
+	- Brand Tempestad spent > $80, Dante Coginian spent > $115, and Varja Lagos spent > $100 at Brew've been served on 1/9
+	- Brand Tempestad, Cornelia Lais, Edvard Vann, Isia Vann, and Sven Flecha all spent a lot at Brew've Been Served on 1/10
+	- Varja Lagos spent ~$100 at Brew've been served on 1/13
+	- Minke Mies spent ~$60 at Brew've Been Served on 1/15
+	- Dante and Mat Bramar spent > $80 at Brew've been Served on 1/16
+	- Isande Borrasca spent ~$100 at Brewed Awakenings on 1/17
+	- Isande Borrasca spent > $80 and Loreto Bodrogi spent ~$70 at Brewed Awakenings on 1/7
+	- Isande Borrasca spent > $72.8 at Brewed Awakenings on 1/13
+	- Isande Borrasca spent > $100 at Brewed Awakenings on 1/15
+	- Valeria Morlun made a purchase at Carlyle Chemical on 1/16, 1/7, 1/8, 1/9, 1/14, 1/15
+	- Brand and Isande were both at the hotel on 1/8, 1/10, 1/14, 1/17
+	- Linnea Bergen spend ~$40 at Coffee Cameleon on 1/6
+	- Carla Forluniau spent > $60 at Coffee Cameleon on 1/7
+	- Carla Forluniau spent > $70 at Coffee Cameleon on 1/15
+	- Bertrand Ovan spent > $70 and Carla spent > $60 at Coffee Cameleon on 1/16
+	- Varro Awelon was the only employee who purchased at Coffee Shack on 1/17, 1/6, 1/7, 1/8, 1/9, 1/13, 1/14, 1/15, 1/16. On 1/6 he made a $63 purchase
+	- Bertrand spent ~$100 and Lidelse spent > $100 at Gelatogalore on 1/7
+	- Inga and Varja each spent > $100 at Gelatogalore on 1/8
+	- Isande spent > $70 at Gelatogalore on 1/9
+	- Rachel Pantanal spent > $150 at Gelatogalore on 1/13
+	- Emile Arpa spend >> $120 at Gelatogalore on 1/14
+	- Rachel spent > $60 at Gelatogalore on 1/15
+	- Rachel spent > $100 at Gelatogalore on 1/18
+	- Sten Sarjorge Jr. spent $140 at Guy's Gyros on 1/19
+	- Hideki Cocinaro, Stenig Fusil, and Willem Vasco-Pais each spent > $100 at Guy's Gyros on 1/6
+	- Isia Vann spent ~$140 at Guy's Gyros on 1/7
+	- Varja Lagos spend > $115 at Guy's Gyros on 1/8
+	- Isia Vann spent > $162 at Guy's Gyros on 1/9
+	- Stenig Fusil spent $111 at Guy's Gyros on 1/11
+	- Emile Arpa spent > $153 and Kanon Herrero spent > 115 at Guy's Gyros on 1/13
+	- Hideki Cocinaro spent > $125 at Guy's Gyros on 1/14
+	- Varja and Isia spent > $100 at Guy's Gyros on 1/15
+	- Brand spent > $140 at Guy's Gyros on 1/16
+	- Lucas Alcazar and Rachel Pantanal spent quite a bit at Hallowed Grounds on 1/7
+	- Nils Calixto spent ~$100 at Hallowed Grounds on 1/8
+	- Emile Arpa spent $90 at Hallowed Grounds on 1/9
+	- Rachel Pantanal spent $70 at Hallowed Grounds on 1/13
+	- Birgitta Frente spent $60 at Hallowed Grounds on 1/14
+	- Anda Ribera spent ~$100 at Hallowed Grounds on 1/15
+	- Hennie Osvaldo spent >$80 at Hallowed Grounds on 1/16
+	- Willem Vasco Pais and Orhan Strum spent a lot at Jack's Magical Beans
+	- There are identical charges for Elsa Orilla and Kanon Herrero at Kalami Kafenion on 1/7 for $45.05
+	- Linda Lagos spent $150 at Katerina's Café on 1/6
+	- Cecilia Morluniau visits Stewart and Sons Fabrication quite often
+	- Unmarked vehicles have erratic route patterns and no data on weekends
+		○ Truck drivers are only people with transactions at the airport
+	- Brand and Isande have recurring purchases at the hotel on the same dates
