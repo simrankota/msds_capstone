@@ -1,4 +1,4 @@
-1. There are identical charges for Elsa Orilla and Kanon Herrero on 1/7 and Ahaggo Museum on 1/18
+1. There are identical charges for Elsa Orilla and Kanon Herrero at Kalami Kafenion on 1/7 and Ahaggo Museum on 1/18
 2. There are 5 unmarked cars in our data. These cars frequent the airport, port, scrap yard, and steel plant.
 3. Brand and Isande have recurring purchases at the hotel on the same dates.
 4. Elsa Orilla never goes to GASTech
