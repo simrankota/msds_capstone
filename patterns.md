@@ -4,7 +4,7 @@
 4. Elsa Orilla never goes to GASTech
 5. The top spenders are all truck drivers
 6. Many employees seem to be at GASTech after hours
-7. 2 employees are on Spetson Street in the morning hours (before work)
+7. 2 employees are in a residential area above Carnero Street in the morning hours (before work)
 8. 2 employees were together at the Capitol on the weekend.
 9. Employees seem to frequent the hotel on the same dates.
 10. Loreto Bedrogi is the only one with GPS data at the scrapyard but all transactions are under Dylan Scozzese's name.
